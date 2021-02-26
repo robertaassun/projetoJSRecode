@@ -1,0 +1,34 @@
+.categorias{
+  margin: 20px;
+}
+
+.itens{
+  line-height: 1.5;
+}
+
+.itens::before{
+  content: "★";
+}
+
+
+.container {
+  display: inline-block;
+  margin-left: 115px;
+}
+
+.box_produto{
+  display: inline-block;
+}
+
+.produto {
+  display:inline-block;
+}
+.descricao {
+  width: 250px;
+  height: 70px;
+}
+
+.valor-desconto {
+  font-weight: bold;
+  color: red;
+}

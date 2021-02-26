@@ -1,0 +1,15 @@
+.banner {
+  width: 100%;
+}
+
+.container{
+  margin: 40px;
+}
+.bem-vindo {
+ color: #DB7093;
+ text-shadow: #A9A9A9 2px 3px;
+}
+
+.descricao {
+  font-size: 20px;
+}
